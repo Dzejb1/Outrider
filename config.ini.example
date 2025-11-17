@@ -1,0 +1,9 @@
+[DEFAULT]
+# Ports considered as web ports for running web-related scans
+WEB_PORTS = 80,443,8080,8443
+
+[PATHS]
+# Path to the wordlist for Gobuster
+# Example for Kali Linux: /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt
+# Example for other systems: C:\wordlists\directory-list-2.3-medium.txt
+GOBUSTER_WORDLIST = C:\Users\Jakub\Desktop\Projekt Pentest\test.txt

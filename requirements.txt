@@ -1,0 +1,8 @@
+# This project does not have any direct Python package dependencies.
+#
+# However, it requires the following command-line tools to be installed and
+# available in your system's PATH:
+#   - nmap
+#   - nikto
+#   - gobuster
+#   - subfinder

@@ -40,8 +40,8 @@ This project is a Python-based tool that automates a wide range of reconnaissanc
 
 3.  **Clone the Project**:
     ```bash
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone https://github.com/Dzejb1/Outrider.git
+
     ```
 
 4.  **Install Python Dependencies**:
@@ -49,10 +49,7 @@ This project is a Python-based tool that automates a wide range of reconnaissanc
     pip install -r requirements.txt
     ```
 
-5.  **Configure the Tool**: Copy the `config.ini.example` to `config.ini` and customize it.
-    ```bash
-    cp config.ini.example config.ini
-    ```
+
 
 ## Configuration
 
